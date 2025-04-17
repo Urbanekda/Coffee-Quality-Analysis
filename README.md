@@ -3,8 +3,6 @@
 Welcome to the Coffee Quality Data Analysis project!
 In this notebook, we dive deep into the world of coffee 🍃, exploring rich datasets to understand what makes a cup truly exceptional.
 
----
-
 ## 📂 Dataset
 
 The data comes from the Coffee Quality Institute (CQI), scraped as of May 2023.
