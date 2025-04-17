@@ -48,8 +48,3 @@ README.md               # This file
 ---
 
 Made with love for coffee enthusiasts and data nerds alike ☕💻
-
----
-
-Would you also like me to create a cool badge section (e.g., Python version, License, Made With ❤️) for the top of the README too? 🚀
-I can add that if you want! 🎯 ￼
