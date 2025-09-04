@@ -3,12 +3,12 @@
 Welcome to the Coffee Quality Data Analysis project!
 In this notebook, we dive deep into the world of coffee 🍃, exploring rich datasets to understand what makes a cup truly exceptional.
 
-## 📂 Dataset
+## Dataset
 
 The data comes from the Coffee Quality Institute (CQI), scraped as of May 2023.
 It includes detailed sensory evaluations of Arabica coffee beans from around the world.
 
-## 🔥 Highlights of This Analysis
+## Highlights of This Analysis
 	•	✅ Data Cleaning: Removed irrelevant columns and standardized data for clean exploration.
 	•	📊 Data Visualization: Leveraged seaborn, matplotlib, and plotly to create beautiful, insightful charts.
 	•	🕵️ Exploratory Analysis:
@@ -16,14 +16,14 @@ It includes detailed sensory evaluations of Arabica coffee beans from around the
 	•	Detected missing values and addressed inconsistencies.
 	•	Highlighted trends in flavor, aroma, body, and acidity.
 
-## 🛠️ Tools & Libraries Used
-	•	Pandas 🐼 for data manipulation
-	•	NumPy 🔢 for numerical operations
-	•	Seaborn 🎨 for statistical visualizations
-	•	Matplotlib 📈 for plotting
-	•	Plotly 🌐 for interactive graphs
+## Tools & Libraries Used
+	•	Pandas for data manipulation
+	•	NumPy for numerical operations
+	•	Seaborn for statistical visualizations
+	•	Matplotlib for plotting
+	•	Plotly for interactive graphs
 
-## 📑 Project Structure
+## Project Structure
 
 analysis_coffee.ipynb   # Jupyter Notebook with full analysis
 README.md               # This file
@@ -41,7 +41,7 @@ README.md               # This file
 ```pip install -r requirements.txt```
 
 
-	4.	Run the notebook and enjoy exploring the data! 🚀
+	4.	Run the notebook and enjoy exploring the data!
 
 ---
 
