@@ -1,7 +1,7 @@
 # ☕ Coffee Quality Data Analysis
 
 Welcome to the Coffee Quality Data Analysis project!
-In this notebook, we dive deep into the world of coffee 🍃, exploring rich datasets to understand what makes a cup truly exceptional.
+In this notebook, we dive deep into the world of coffee 🍃, exploring a rich dataset to understand what makes a cup truly exceptional.
 
 ## Dataset
 
